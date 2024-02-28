@@ -1,5 +1,7 @@
 # Age Calculator App
 
+![1](https://github.com/DaviDM2005/AgeInMinutes/assets/87268065/24984e82-aea1-4ca6-b827-5d8eb25ca6da)
+
 A simple Android app to calculate age in minutes based on the selected date.
 
 ## Features
@@ -34,5 +36,5 @@ The selected date will be displayed, along with your age in minutes.
 
 ## Screenshots
 
-![1](https://github.com/DaviDM2005/AgeInMinutes/assets/87268065/24984e82-aea1-4ca6-b827-5d8eb25ca6da)
+
 
