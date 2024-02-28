@@ -34,6 +34,7 @@ The selected date will be displayed, along with your age in minutes.
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/DaviDM2005/AgeInMinutes/blob/main/Screenshots/1.jpg)
-![Screenshot 2](https://github.com/DaviDM2005/AgeInMinutes/blob/main/Screenshots/2.jpg)
-![Screenshot 3](https://github.com/DaviDM2005/AgeInMinutes/blob/main/Screenshots/3.jpg)
+![Screenshot 1](https://raw.githubusercontent.com/DaviDM2005/AgeInMinutes/main/Screenshots/1.jpg)
+![Screenshot 2](https://raw.githubusercontent.com/DaviDM2005/AgeInMinutes/main/Screenshots/2.jpg)
+![Screenshot 3](https://raw.githubusercontent.com/DaviDM2005/AgeInMinutes/main/Screenshots/3.jpg)
+
