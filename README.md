@@ -16,6 +16,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 - Android Studio
 - Android device or emulator
 
+- https://developer.android.com/studio
+
 ### Installing
 
 1. Clone the repository to your local machine:
